@@ -1,0 +1,3 @@
+include ':utils-mylibrary'
+include ':app'
+rootProject.name = "Universal tool library"
